@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vladimir 
+- 👀 I’m interested testing software (API, mobil,  WEB)
+- 🌱 I’m currently learning QA engineer
+- 💞️ I’m looking to collaborate on with everyone for advanced training
+- 📫 How to reach me: a2w@bk.ru, https://t.me/IDavva
