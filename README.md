@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vladimir, I'm 41
+- 👋 Hi, I’m Vladimir
 - 👀 I’m interested testing software (API, mobil,  WEB)
 - 🌱 I’m currently learning QA engineer
 - 💞️ I’m looking to collaborate on with everyone for advanced training
